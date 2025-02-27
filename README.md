@@ -2,13 +2,13 @@
 Toda la descripción del proyecto...
 
 
-##Integrantes::
+## Integrantes::
   * Integrante 1
   * Integrante 2
   * Integrante 3
   
 
-#Toda la información para compilar el proyecto... En Teams están los comandos, ajustar acorde entendimiento:::
+# Toda la información para compilar el proyecto... En Teams están los comandos, ajustar acorde entendimiento:::
 
 Inicializar el Proyecto
 Ejecuta este comando en tu terminal para crear un nuevo proyecto Vue 3 con Vite:
