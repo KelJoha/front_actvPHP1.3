@@ -1,12 +1,9 @@
 # front_actvPHP1.3
 Toda la descripción del proyecto...
-
+Proyecto prueba para la aplicación y practica de funciones, comandos y estilos en el front de una página, se crea, modifica, elimina y actualizan las funciones....
 
 ## Integrantes::
-  * Integrante 1
-  * Integrante 2
-  * Integrante 3
-  
+  * Kelly Prieto 
 
 # Toda la información para compilar el proyecto... En Teams están los comandos, ajustar acorde entendimiento:::
 
