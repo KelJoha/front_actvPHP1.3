@@ -1,6 +1,6 @@
 <script setup>
-//import HelloWorld from './components/HelloWorld.vue'
-//import MenuPrincipal from './components/Menu.vue'
+import HelloWorld from './components/HelloWorld.vue'
+import MenuPrincipal from './components/Menu.vue'
 
 import ContenedorEjemplo from './components/Contenedor.vue'
 
@@ -9,7 +9,12 @@ import ContenedorEjemplo from './components/Contenedor.vue'
 
 <template>
   
-  <!--<div class="container-fluid"></div>-->  
+  <div class="container-fluid">
+    <MenuPrincipal></MenuPrincipal>
+    <HelloWorld></HelloWorld>    
+  </div>
+
+  
 
   <ContenedorEjemplo>
   </ContenedorEjemplo>
