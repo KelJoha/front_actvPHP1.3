@@ -3,6 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 import MenuPrincipal from './components/Menu.vue'
 
 import ContenedorEjemplo from './components/Contenedor.vue'
+import FormularioEjemplo from './components/Formulario.vue'
 
 </script>
 
@@ -14,7 +15,7 @@ import ContenedorEjemplo from './components/Contenedor.vue'
     <HelloWorld></HelloWorld>    
   </div>
 
-  
+  <FormularioEjemplo></FormularioEjemplo>
 
   <ContenedorEjemplo>
   </ContenedorEjemplo>
