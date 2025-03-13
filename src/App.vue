@@ -12,20 +12,22 @@ import FormularioEjemplo from './components/Formulario.vue'
   
   <div class="container-fluid">
     <MenuPrincipal></MenuPrincipal>
+
+
+
+<FormularioEjemplo></FormularioEjemplo>
+
+  <ContenedorEjemplo>
+  </ContenedorEjemplo>
+  
+    
+
+
+
+
     <HelloWorld></HelloWorld>    
   </div>
-
-  <FormularioEjemplo></FormularioEjemplo>
-
-  <ContenedorEjemplo>
-  </ContenedorEjemplo>
-  <ContenedorEjemplo>
-  </ContenedorEjemplo>
-  <ContenedorEjemplo>
-  </ContenedorEjemplo>
-  <ContenedorEjemplo>
-  </ContenedorEjemplo>
-    
+  
   
  
 </template>
