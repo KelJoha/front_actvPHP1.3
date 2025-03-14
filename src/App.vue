@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import MenuPrincipal from './components/Menu.vue'
+import FooterExample from './components/Footer1.vue'
+import NavbarEjemplo from './components/Menu1.vue'
 
 import ContenedorEjemplo from './components/Contenedor.vue'
-import FormularioEjemplo from './components/Formulario.vue'
+import AdjuntarExample from './components/Adjuntar.vue'
 
 </script>
 
@@ -11,21 +11,14 @@ import FormularioEjemplo from './components/Formulario.vue'
 <template>
   
   <div class="container-fluid">
-    <MenuPrincipal></MenuPrincipal>
+    <NavbarEjemplo></NavbarEjemplo>
 
-
-
-<FormularioEjemplo></FormularioEjemplo>
-
-  <ContenedorEjemplo>
+    <ContenedorEjemplo>
   </ContenedorEjemplo>
-  
-    
 
+<AdjuntarExample></AdjuntarExample>
 
-
-
-    <HelloWorld></HelloWorld>    
+    <FooterExample></FooterExample>    
   </div>
   
   
